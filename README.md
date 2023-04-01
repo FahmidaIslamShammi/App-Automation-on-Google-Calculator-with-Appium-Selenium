@@ -10,7 +10,7 @@
 
 5. Solve this series (100+200-100*2/5)
 
-##Technology and Tools used:
+## Technology and Tools used:
 - Selenium Webdriver
 - Appium
 - Intellij
